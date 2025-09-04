@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] I'm OK
+- [ ] You fix it!
